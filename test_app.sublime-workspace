@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"mysqf",
+				"mysql_fetch_array"
+			],
+			[
+				"myse",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysqlfe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"se",
+				"session_id"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"sess",
+				"session_id"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"no",
+				"node"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"chi",
+				"childrens"
+			],
+			[
+				"ro",
+				"root_value"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"n",
+				"node_var"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"ne",
+				"new_node"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"set",
+				"set_childrens"
+			],
+			[
+				"new",
+				"new_node"
+			],
+			[
+				"getc",
+				"get_childrens"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"ch",
+				"childrens"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"tr",
+				"tree"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"max",
+				"max_id"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"ar",
+				"array_push"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"va",
+				"valeu"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"Fo",
+				"FormValue\tstring ƒ"
+			],
+			[
+				"ha",
+				"HandleFunc\t ƒ"
+			],
+			[
+				"tem",
+				"template\t package ρ"
+			],
+			[
+				"P",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"Ha",
+				"HandleFunc\t ƒ"
+			],
+			[
+				"F",
+				"FileServer\thttp.Handler ƒ"
+			],
+			[
+				"e",
+				"ExecuteTemplate\terror ƒ"
+			],
+			[
+				"t",
+				"template\t package ρ"
+			],
+			[
+				"Res",
+				"ResponseWriter\tinterface ¡"
+			],
+			[
+				"f",
+				"func\tFunction"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"M",
+				"math"
+			],
+			[
+				"st",
+				"step_size"
+			],
+			[
+				"x",
+				"X_count"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"ge",
+				"getFoodType"
+			],
+			[
+				"h",
+				"hungerLevel"
+			],
+			[
+				"A",
+				"Animal"
+			],
+			[
+				"be",
+				"bear"
+			],
+			[
+				"Be",
+				"Bear"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"get",
+				"getHungerLevel"
+			],
+			[
+				"a",
+				"Antelope"
+			],
+			[
+				"An",
+				"Antelope"
+			],
+			[
+				"c",
+				"const"
+			],
+			[
+				"g",
+				"getFoodType"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"X",
+				"X_count"
+			],
+			[
+				"w",
+				"weights_count"
+			],
+			[
+				"init",
+				"init_input"
+			],
+			[
+				"i",
+				"int32_t"
+			],
+			[
+				"s",
+				"str_pointer1"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"u",
+				"upr1"
+			],
+			[
+				"si",
+				"simple2"
+			],
+			[
+				"S",
+				"Simple2"
+			],
+			[
+				"Si",
+				"Simple1"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"int",
+				"int32_t"
+			],
+			[
+				"nu",
+				"num_pointer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "structure",
+			"settings":
+			{
+				"buffer_size": 353,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 839,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tree.php",
+			"settings":
+			{
+				"buffer_size": 7192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fearning/work/test_php_app"
+	],
+	"file_history":
+	[
+		"/home/fearning/work/test_php_app/db.php",
+		"/home/fearning/work/test_php_app/index.php",
+		"/home/fearning/work/php/controllers/index_controller.php",
+		"/home/fearning/work/php/controllers/db.php",
+		"/home/fearning/work/php/index.php",
+		"/home/fearning/work/go_proj/src/go-blog-example-part1/models/Post.go",
+		"/home/fearning/Документы/angl5_words.txt",
+		"/home/fearning/work/go_proj/src/go-blog-example-part1/main.go",
+		"/home/fearning/PycharmProjects/untitled1/transactions.csv",
+		"/home/fearning/work/sber/transactions.csv",
+		"/home/fearning/work/sber/customers_gender_train.csv",
+		"/home/fearning/work/php/templates/write.html",
+		"/home/fearning/work/php/new.php",
+		"/home/fearning/work/php/save.php",
+		"/home/fearning/Рабочий стол/words",
+		"/home/fearning/work/php/config.php",
+		"/home/fearning/work/php/login.php",
+		"/home/fearning/work/php/signup.php",
+		"/home/fearning/work/php/header.php",
+		"/home/fearning/work/php/templates/index.html",
+		"/home/fearning/work/php/footer.php",
+		"/home/fearning/work/php/templates/header.html",
+		"/home/fearning/work/php/controllers/index.html",
+		"/home/fearning/work/go-blog-example-part1/main.go",
+		"/home/fearning/work/php/index.html",
+		"/home/fearning/work/go-blog-example-part1/go_test.sublime-project",
+		"/home/fearning/work/go-blog-example-part1/src/main.go",
+		"/home/fearning/work/C/main.c",
+		"/home/fearning/PycharmProjects/books.csv",
+		"/home/fearning/Загрузки/Telegram Desktop/learn.go",
+		"/home/fearning/work/go-blog-example-part1/src/models/Post.go",
+		"/home/fearning/work/neural.go",
+		"/home/fearning/work/imgs/main.py",
+		"/home/fearning/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/fearning/work/go-blog-example-part1/templates/write.html",
+		"/home/fearning/work/go-blog-example-part1/templates/footer.html",
+		"/home/fearning/work/go-blog-example-part1/templates/header.html",
+		"/home/fearning/work/guide/structure",
+		"/home/fearning/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/fearning/Документы/tennis/ATP/2016.csv",
+		"/home/fearning/Загрузки/books.csv",
+		"/home/fearning/work/C/опыт1",
+		"/home/fearning/Документы/words.txt",
+		"/home/fearning/hz.c",
+		"/home/fearning/Загрузки/example.csv",
+		"/home/fearning/Документы/28_04.cpp",
+		"/home/fearning/Документы/28_04_dop.cpp",
+		"/home/fearning/work/C/week9.cpp",
+		"/home/fearning/work/C/week9_dop.cpp",
+		"/home/fearning/work/courses/index.html",
+		"/home/fearning/work/courses/css/carousel.css",
+		"/home/fearning/work/courses/index1.html",
+		"/home/fearning/work/hs/hz.hs",
+		"/home/fearning/Рабочий стол/ddos.py",
+		"/home/fearning/work/courses/css/starter-template.css",
+		"/home/fearning/Рабочий стол/week2/lec2_1",
+		"/home/fearning/work/selenium_test/hellol_word.py",
+		"/home/fearning/work/songs_parser/app/proxies.json",
+		"/home/fearning/work/songs_parser/app/letters_count.txt",
+		"/home/fearning/work/songs_parser/app/artists.txt",
+		"/home/fearning/work/songs_parser/app/artists.json",
+		"/home/fearning/work/Flask-SocketIO-master/example/app.py",
+		"/home/fearning/work/songs_parser/app/artist.txt",
+		"/home/fearning/work/songs_parser/app/parser.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"echo",
+			"new Node",
+			"echo",
+			"remove",
+			");\n",
+			"value",
+			"x1",
+			"value",
+			"assets",
+			"L(",
+			"\">\n",
+			"stylesheet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "structure",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								839,
+								839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tree.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2970,
+								2970
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test_app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
